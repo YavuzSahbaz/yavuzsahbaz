@@ -1,8 +1,8 @@
 <img align='center' src="https://github.com/YavuzSahbaz/yavuzsahbaz/blob/main/images/cyberyavuzsahbaz.jpg" width="90%">
 <h2> Hi 👋🏼, I'm Kabexnuf!</h2>
-<img align='right' src="https://user-images.githubusercontent.com/13212227/151001927-6fec20d4-a320-4533-bdd0-45e528efae4b.png" width="200">
+<img align='right' src="https://github.com/YavuzSahbaz/yavuzsahbaz/blob/main/images/ysahbaz.jpg" width="200">
 <p><em>Security Engineer and Developer and H4cker <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"><br><br>
-  “Kabexnuf” is a new word made by remixing my name, and it means me. pronunciation is a little vague. say ‘Kabexnuff’ but you can just call me ‘Kabx’
+  “Kabexnuf” is a new word made by remixing my name, and it means me. pronunciation is a little vague. say ‘Kabexnuf’ but you can just call me ‘Kabex’
 </em></p>
 <br><br><br><br>
 
