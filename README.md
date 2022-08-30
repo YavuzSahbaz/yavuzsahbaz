@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/13212227/104023760-753a4800-5205-11eb-9105-c58c5b4a5760.jpg" width="100%">
+<img align='center' src="https://github.com/YavuzSahbaz/yavuzsahbaz/blob/main/images/cyberyavuzsahbaz.jpg" width="90%">
 <h2> Hi 👋🏼, I'm Kabexnuf!</h2>
 <img align='right' src="https://user-images.githubusercontent.com/13212227/151001927-6fec20d4-a320-4533-bdd0-45e528efae4b.png" width="200">
 <p><em>Security Engineer and Developer and H4cker <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"><br><br>
