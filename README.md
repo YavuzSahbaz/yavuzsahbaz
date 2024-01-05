@@ -23,7 +23,7 @@ func main() {
 	me := &Me{
 		Job:         "🗡 Security engineer and Red team that aims for a purple team.",
 		Pronouns:    "🧑🏽‍💻 He/Him",
-		SpecialMove: "🔥 Web Hacking",
+		SpecialMove: "🔥 Web",
 		MainWeapon:  "⚡️ OWASP ZAP",
 		Language: []string{
 			"🐹 I Love Golang",
