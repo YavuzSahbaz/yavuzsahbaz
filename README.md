@@ -1,4 +1,4 @@
-<img align='center' src="https://github.com/YavuzSahbaz/yavuzsahbaz/blob/main/images/cyberyavuzsahbaz.jpg" width="90%">
+
 <h2> Hi 👋🏼, I'm Kabexnuf!</h2>
 <img align='right' src="https://github.com/YavuzSahbaz/yavuzsahbaz/blob/main/images/ysahbaz.jpg" width="200">
 <p><em>Security Engineer and Developer <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"><br><br>
