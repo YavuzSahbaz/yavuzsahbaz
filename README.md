@@ -1,6 +1,5 @@
 
 <h2> Hi 👋🏼, I'm Kabexnuf!</h2>
-//<img align='right' src="https://github.com/YavuzSahbaz/yavuzsahbaz/blob/main/images/ysahbaz.jpg" width="200">
 <p><em>Security Engineer and Developer <img src="https://i.giphy.com/26BRIYJNRAreymGwE.gif" width="30"><br><br>
   “Kabexnuf” is a new word made by remixing my name, and it means me. pronunciation is a little vague. say ‘Kabexnuf’ but you can just call me ‘Kabex’
 </em></p>
